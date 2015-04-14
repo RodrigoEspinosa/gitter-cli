@@ -1,0 +1,31 @@
+{
+  "name": "gitter-cli",
+  "version": "0.1.0",
+  "description": "A gitter client for your console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RodrigoEspinosa/gitter-cli.git"
+  },
+  "keywords": [
+    "gitter"
+  ],
+  "author": "rec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodrigoEspinosa/gitter-cli/issues"
+  },
+  "homepage": "https://github.com/RodrigoEspinosa/gitter-cli",
+  "dependencies": {
+    "blessed": "^0.1.0",
+    "chalk": "^1.0.0",
+    "commander": "^2.7.1",
+    "keychain": "0.0.4",
+    "node-gitter": "^1.2.8",
+    "q": "^1.2.0",
+    "winston": "^1.0.0"
+  }
+}
