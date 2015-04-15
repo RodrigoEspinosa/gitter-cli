@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "A gitter client for your console.",
   "main": "./bin/gitter-cli",
+  "bin": {
+    "gitter-cli": "./bin/gitter-cli" 
+  }, 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +17,7 @@
     "gitter",
     "cli"
   ],
+  "preferGlobal": true,
   "author": "rec",
   "license": "MIT",
   "bugs": {
