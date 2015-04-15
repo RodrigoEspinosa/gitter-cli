@@ -2,7 +2,7 @@
   "name": "gitter-cli",
   "version": "0.1.0",
   "description": "A gitter client for your console.",
-  "main": "index.js",
+  "main": "./bin/gitter-cli",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,8 @@
     "url": "https://github.com/RodrigoEspinosa/gitter-cli.git"
   },
   "keywords": [
-    "gitter"
+    "gitter",
+    "cli"
   ],
   "author": "rec",
   "license": "MIT",
