@@ -4,8 +4,8 @@
   "description": "A gitter client for your console.",
   "main": ".lib/main.js",
   "bin": {
-    "gitter-cli": "./bin/gitter-cli" 
-  }, 
+    "gitter-cli": "./bin/gitter-cli"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,6 +16,11 @@
   "keywords": [
     "gitter",
     "cli"
+  ],
+  "files": [
+    "bin",
+    "lib",
+    ""
   ],
   "preferGlobal": true,
   "author": "rec",
