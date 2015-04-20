@@ -1,11 +1,13 @@
 # Gitter client for your terminal
 
+![gitter-cli example](https://dl.dropboxusercontent.com/u/73676286/GitHub/gitter-cli-example-2.gif)
+
 ## Install
 
-You can install gitter-cli with **npm**.
+You can install gitter-cli with **npm** globally.
 
 ```
-npm install gitter-cli
+npm install -g gitter-cli
 ```
 
 Then you will need to set the authentication-token for your user in gitter.
