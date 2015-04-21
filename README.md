@@ -20,12 +20,14 @@ Usage: gitter-cli [options] [command]
 
 Commands:
 
-  join|j [options] [name]  Join a room with the specified name.
+  join|j [name]        Join a room with the specified name.
+  authorize|set-auth   undefined
 
 Options:
 
-  -h, --help     output usage information
-  -V, --version  output the version number
+  -h, --help       output usage information
+  -V, --version    output the version number
+  --token [token]  Set the access-key token for client authentication.
 ```
 
 ----------
