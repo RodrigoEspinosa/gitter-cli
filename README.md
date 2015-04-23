@@ -21,14 +21,24 @@ Usage: gitter-cli [options] [command]
 Commands:
 
   join|j [name]        Join a room with the specified name.
-  authorize|set-auth   undefined
+  authorize|set-auth   Set the access-key token for client authentication.
+  whoami|me            Display your user information based on the existing token.
 
 Options:
 
   -h, --help       output usage information
   -V, --version    output the version number
-  --token [token]  Set the access-key token for client authentication.
+  --token [token]  Set the access-key token for client authentication. This won't be persisted.
 ```
+
+
+**On a room:**
+
+- Use **k** or **arrow-up** to go up in the chat board.
+- Use **j** or **arrow-down** to go on down in the chat board.
+- When focusing on the screen, press **i** for writing mode.
+- Use **ESC** to toggle between the screen and the input box.
+- When focusing on the input box, press **ctrl-s** to send the message.
 
 ----------
 
