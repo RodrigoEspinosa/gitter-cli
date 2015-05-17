@@ -1,6 +1,6 @@
 {
   "name": "gitter-cli",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A gitter client for your console.",
   "main": ".lib/main.js",
   "bin": {
@@ -32,7 +32,9 @@
     "blessed": "^0.1.0",
     "chalk": "^1.0.0",
     "commander": "^2.7.1",
+    "html-to-text": "^1.3.0",
     "keychain": "0.0.4",
+    "marked": "^0.3.3",
     "node-gitter": "^1.2.8",
     "q": "^1.2.0",
     "winston": "^1.0.0",
