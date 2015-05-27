@@ -1,0 +1,32 @@
+{
+  "history": {
+    "fg": "white",
+    "bg": "bg",
+    "border": {
+      "bg": "lightblack"
+    },
+    "scrollbar": {
+      "bg": "grey",
+      "fg": "bg"
+    }
+  },
+  "chat-history-message": {
+    "bg": "bg"
+  },
+  "message-input": {
+    "fg": "lightwhite",
+    "bg": "gray",
+
+    "focus": {
+      "fg": "lightwhite",
+      "bg": "brightblack"
+    }
+  },
+  "author-possible-colors": [
+    "red",
+    "cyan",
+    "blue",
+    "magenta",
+    "yellow"
+  ]
+}
