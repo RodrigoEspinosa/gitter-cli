@@ -23,6 +23,7 @@ Commands:
   join|j [name]        Join a room with the specified name.
   authorize|set-auth   Set the access-key token for client authentication.
   whoami|me            Display your user information based on the existing token.
+  rooms|status         Display a list of rooms that you are part of.
 
 Options:
 
