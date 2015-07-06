@@ -11,6 +11,7 @@ npm install -g gitter-cli
 ```
 
 Then you will need to set the authentication-token for your user in gitter. Follow these steps to get your token:
+
 1. Visit https://developer.gitter.im
 2. Click login (top right)
 3. You will see your personal access token
