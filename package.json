@@ -1,6 +1,6 @@
 {
   "name": "gitter-cli",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "description": "A gitter client for your console.",
   "main": ".lib/main.js",
   "bin": {
@@ -22,7 +22,12 @@
     "lib"
   ],
   "preferGlobal": true,
-  "author": "rec",
+  "author": "rec <espinosacurbelo@gmail.com>",
+  "contributors": [
+    "mydigitalself <mike.bartlett@gmail.com>",
+    "juliosueiras <juliosueiras@gmail.com>",
+    "travs"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/RodrigoEspinosa/gitter-cli/issues"
