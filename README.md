@@ -1,5 +1,7 @@
 # Gitter client for your terminal
 
+[![Join the chat at https://gitter.im/RodrigoEspinosa/gitter-cli](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RodrigoEspinosa/gitter-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![gitter-cli example](https://dl.dropboxusercontent.com/u/73676286/GitHub/gitter-cli-example-2.gif)
 
 ## Install
